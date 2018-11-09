@@ -2,7 +2,7 @@
   "name": "emplist",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://scarletphoenix.github.io/EmployeeAttendance",
+  "homepage": "http://scarletphoenix.github.io/EmployeeAttendance/",
   "dependencies": {
     "d3": "^5.7.0",
     "moment": "^2.22.2",
@@ -17,10 +17,13 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
+    
   },
   "eslintConfig": {
     "extends": "react-app"
   },
+  "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
   "browserslist": [
     ">0.2%",
     "not dead",
