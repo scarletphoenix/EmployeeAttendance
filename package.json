@@ -2,7 +2,7 @@
   "name": "emplist",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://scarletphoenix.github.io/EmployeeAttendance/",
+  "homepage": "https://scarletphoenix.github.io/EmployeeAttendance/",
   "dependencies": {
     "d3": "^5.7.0",
     "moment": "^2.22.2",
